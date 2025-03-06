@@ -26,4 +26,4 @@ This project is a RESTful API for managing employee insurance information. It pr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/EmployeeInsuranceManagement.git
+   git clone https://github.com/jmlakshmisagar/InsuranceApp-Using-RestAPI-SpringBoot.git
